@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/zimmer_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zimmer_labs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/felix joshua paulus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix joshua paulus" height="30" width="40" /></a>
-<a href="https://medium.com/@felix joshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@felix joshua" height="30" width="40" /></a>
+<a href="https://medium.com/@felixjoshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@felix joshua" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
